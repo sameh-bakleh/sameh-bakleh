@@ -1,4 +1,4 @@
-<!-- Profile README: public repo must be YOUR_USERNAME/YOUR_USERNAME with README.md at root. Replace `samhbk` in stats/links if your handle differs. -->
+<!-- Profile README: public repo `samhbk/samhbk` with this file at repo root → renders on https://github.com/samhbk -->
 
 <div align="center">
 
@@ -50,11 +50,10 @@ I design and ship **backend systems** (Laravel, Symfony, REST), **data layers** 
 
 ### Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-samhbk-1e1b32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samhbk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%40samhbk-1e1b32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samhbk)
+[![Live site](https://img.shields.io/badge/Live%20site-Vercel-34d399?style=for-the-badge&logo=vercel&logoColor=1e1b32)](https://sameh-bakleh-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameh-bakleh-b177b1189)
 [![Email](https://img.shields.io/badge/Email-samhbkeng1992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samhbkeng1992@gmail.com)
-
-> Add a **live portfolio** badge here when your site is deployed (e.g. `https://your-app.vercel.app`).
 
 ---
 
