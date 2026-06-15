@@ -177,7 +177,7 @@ I've led mobile teams, published to the **App Store** and **Google Play**, and I
 
 [![GitHub](https://img.shields.io/badge/GitHub-@sameh--bakleh-0d1117?style=for-the-badge&logo=github&logoColor=34d399)](https://github.com/sameh-bakleh)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sameh--bakleh.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=34d399)](https://sameh-bakleh.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameh_Bakleh-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sameh-bakleh-b177b1189)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameh_Bakleh-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sameh-bakleh/)
 [![Email](https://img.shields.io/badge/Email-samhbkeng1992@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samhbkeng1992@gmail.com)
 
 <br/><br/>
