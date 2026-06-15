@@ -11,8 +11,8 @@
 <br/>
 
 [![Location](https://img.shields.io/badge/Bochum,_Germany-0d1117?style=for-the-badge&logo=googlemaps&logoColor=34d399)](https://www.google.com/maps/place/Bochum)
-[![Open to work](https://img.shields.io/badge/Open_to_work-Remote_|_Hybrid_|_On--site-0d1117?style=for-the-badge&logo=briefcase&logoColor=22d3ee)](https://sameh-bakleh-portfolio.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/Live_portfolio-Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=34d399)](https://sameh-bakleh-portfolio.vercel.app/)
+[![Open to work](https://img.shields.io/badge/Open_to_work-Remote_|_Hybrid_|_On--site-0d1117?style=for-the-badge&logo=briefcase&logoColor=22d3ee)](https://sameh-bakleh.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live_portfolio-Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=34d399)](https://sameh-bakleh.vercel.app/)
 
 </div>
 
@@ -101,7 +101,7 @@ I've led mobile teams, published to the **App Store** and **Google Play**, and I
 | [laravel-recruitment-platform-api](https://github.com/sameh-bakleh/laravel-recruitment-platform-api) | Laravel, Redis | Jobs, applications, RBAC, analytics |
 | [booking-system-api-showcase](https://github.com/sameh-bakleh/booking-system-api-showcase) | Laravel | Reservations, availability, API v1 |
 | [laravel-ecommerce-erp-integration-api](https://github.com/sameh-bakleh/laravel-ecommerce-erp-integration-api) | Laravel, queues | ERP sync, webhooks, HMAC, retries |
-| [portfolio](https://github.com/sameh-bakleh/portfolio) | Next.js, TypeScript | [Live site →](https://sameh-bakleh-portfolio.vercel.app/) |
+| [portfolio](https://github.com/sameh-bakleh/portfolio) | Next.js, TypeScript | [Live site →](https://sameh-bakleh.vercel.app/) |
 
 </details>
 
@@ -176,7 +176,7 @@ I've led mobile teams, published to the **App Store** and **Google Play**, and I
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@sameh--bakleh-0d1117?style=for-the-badge&logo=github&logoColor=34d399)](https://github.com/sameh-bakleh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sameh--bakleh--portfolio.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=34d399)](https://sameh-bakleh-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sameh--bakleh.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=34d399)](https://sameh-bakleh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameh_Bakleh-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sameh-bakleh-b177b1189)
 [![Email](https://img.shields.io/badge/Email-samhbkeng1992@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:samhbkeng1992@gmail.com)
 
