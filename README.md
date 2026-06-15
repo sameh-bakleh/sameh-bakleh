@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Sameh+Bakleh;Backend+%C2%B7+Mobile+%C2%B7+Software+Engineer;Laravel+%C2%B7+Symfony+%C2%B7+Kotlin+%C2%B7+Flutter;Building+reliable+APIs+%26+production+apps)](https://github.com/samhbk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=Sameh+Bakleh;Backend+%C2%B7+Mobile+%C2%B7+Software+Engineer;Laravel+%C2%B7+Symfony+%C2%B7+Kotlin+%C2%B7+Swift;Building+reliable+APIs+%26+production+apps)](https://github.com/samhbk)
 
 **Senior software engineer · APIs, mobile & platforms · Germany**
 
@@ -16,7 +16,23 @@
 
 ### About
 
-I design and ship **backend systems** (Laravel, Symfony, REST), **data layers** (MySQL, PostgreSQL, Redis), and **mobile clients** (Kotlin/Android, Swift/iOS, Flutter) — with Docker, GitLab CI/CD, and clear API contracts. I’ve led mobile teams, published apps to the App Store & Play, and I’m open to **senior backend**, **mobile**, or **hybrid** engineering roles in Germany.
+I design and ship **backend systems** (Laravel, Symfony, REST), **data layers** (MySQL, PostgreSQL, Redis), and **mobile clients** (Kotlin/Android, Swift/iOS, Flutter) — with Docker, GitHub Actions, GitLab CI/CD, and clear API contracts. I've led mobile teams, published apps to the App Store & Play, and I'm open to **senior backend**, **mobile**, or **hybrid** engineering roles in Germany.
+
+**Published portfolio samples** on GitHub cover native iOS commerce & chat clients, a Kotlin Android marketplace client, and Laravel APIs for recruitment, bookings, and ERP integration — each with tests, CI, and production-style architecture.
+
+---
+
+### Featured repositories
+
+| Repository | Stack | Focus |
+|------------|-------|-------|
+| [**ios-marketplace-product-app**](https://github.com/samhbk/ios-marketplace-product-app) | Swift, SwiftUI, MVVM | Commerce client — auth, favorites, pagination, Keychain |
+| [**ios-realtime-offline-chat**](https://github.com/samhbk/ios-realtime-offline-chat) | Swift, UIKit | Messaging with offline UX, attachments, local persistence |
+| [**android-marketplace-client**](https://github.com/samhbk/android-marketplace-client) | Kotlin, Jetpack Compose | JWT auth, paged catalog, wishlist, checkout flows |
+| [**laravel-recruitment-platform-api**](https://github.com/samhbk/laravel-recruitment-platform-api) | Laravel, JWT, Redis, OpenAPI | ATS-style jobs, applications, RBAC, salary analytics |
+| [**booking-system-api-showcase**](https://github.com/samhbk/booking-system-api-showcase) | Laravel, MySQL, Redis | Overlap-safe reservations, availability, API versioning |
+| [**laravel-ecommerce-erp-integration-api**](https://github.com/samhbk/laravel-ecommerce-erp-integration-api) | Laravel, queues, webhooks | ERP sync — products, stock, orders, HMAC, retry workflows |
+| [**portfolio**](https://github.com/samhbk/portfolio) | Next.js, TypeScript, Tailwind | Live developer site — [sameh-bakleh-portfolio.vercel.app](https://sameh-bakleh-portfolio.vercel.app) |
 
 ---
 
@@ -33,9 +49,9 @@ I design and ship **backend systems** (Laravel, Symfony, REST), **data layers** 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Mobile**  
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Web & delivery**  
@@ -43,6 +59,7 @@ I design and ship **backend systems** (Laravel, Symfony, REST), **data layers** 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
