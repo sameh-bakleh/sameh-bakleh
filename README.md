@@ -9,6 +9,7 @@
 [![Location](https://img.shields.io/badge/Bochum,_Germany-161b22?style=for-the-badge&logo=googlemaps&logoColor=34d399)](https://www.google.com/maps/place/Bochum)
 [![Open to work](https://img.shields.io/badge/Open_to_work-Remote_%7C_Hybrid_%7C_On--site-161b22?style=for-the-badge&logo=briefcase&logoColor=22d3ee)](https://sameh-bakleh.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sameh--bakleh.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=34d399)](https://sameh-bakleh.vercel.app/)
+[![TalentBridge](https://img.shields.io/badge/TalentBridge-flagship_monorepo-161b22?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/sameh-bakleh/talentbridge)
 
 </div>
 
@@ -18,7 +19,9 @@
 
 I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs** — from mobile UX and App Store delivery to JWT auth, RBAC, Redis, OpenAPI, Docker, and CI.
 
-**Flagship full-stack pair:** [`ios-marketplace-product-app`](https://github.com/sameh-bakleh/ios-marketplace-product-app) + [`laravel-marketplace-platform`](https://github.com/sameh-bakleh/laravel-marketplace-platform) — screenshots, tests, and a mobile-ready API contract.
+**Flagship monorepo:** [`talentbridge`](https://github.com/sameh-bakleh/talentbridge) — Swift 6 TCA iOS + Laravel GraphQL DDD API (Horizon, Sentry, CI).
+
+**Flagship REST pair:** [`ios-marketplace-product-app`](https://github.com/sameh-bakleh/ios-marketplace-product-app) + [`laravel-marketplace-platform`](https://github.com/sameh-bakleh/laravel-marketplace-platform) — screenshots, tests, and a mobile-ready API contract.
 
 <details open>
 <summary><b>What I focus on</b></summary>
@@ -28,7 +31,7 @@ I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs**
 |------|-----------|
 | **Mobile** | Swift, SwiftUI & UIKit, MVVM, REST, auth, offline UX, XCTest, App Store delivery |
 | **Backend** | Laravel, PHP, Symfony, REST, JWT/RBAC, Redis, OpenAPI, admin dashboards |
-| **Full-stack** | iOS client + Laravel API pairs, integration, webhooks, queues, Docker, CI |
+| **Full-stack** | iOS client + Laravel API pairs, GraphQL, TCA, integration, webhooks, queues, Docker, CI |
 
 </details>
 
