@@ -2,14 +2,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1800&color=34D399&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer;Mobile+%26+Backend;Swift+%C2%B7+Laravel+%C2%B7+REST+APIs;Bochum%2C+Germany)](https://github.com/sameh-bakleh)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1800&color=34D399&center=true&vCenter=true&width=680&lines=Senior+Software+Engineer;Mobile+%26+Backend;Swift+%C2%B7+Laravel+%C2%B7+GraphQL;Bochum%2C+Germany)](https://github.com/sameh-bakleh)
 
 **Senior Software Engineer — Mobile & Backend**
 
 [![Location](https://img.shields.io/badge/Bochum,_Germany-161b22?style=for-the-badge&logo=googlemaps&logoColor=34d399)](https://www.google.com/maps/place/Bochum)
 [![Open to work](https://img.shields.io/badge/Open_to_work-Remote_%7C_Hybrid_%7C_On--site-161b22?style=for-the-badge&logo=briefcase&logoColor=22d3ee)](https://sameh-bakleh.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sameh--bakleh.vercel.app-161b22?style=for-the-badge&logo=vercel&logoColor=34d399)](https://sameh-bakleh.vercel.app/)
-[![TalentBridge](https://img.shields.io/badge/TalentBridge-flagship_monorepo-161b22?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/sameh-bakleh/talentbridge)
+[![TalentBridge API](https://img.shields.io/badge/TalentBridge-API-161b22?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/sameh-bakleh/talentbridge-api)
+[![TalentBridge iOS](https://img.shields.io/badge/TalentBridge-iOS-161b22?style=for-the-badge&logo=swift&logoColor=F05138)](https://github.com/sameh-bakleh/talentbridge-ios)
 
 </div>
 
@@ -17,9 +18,9 @@
 
 ### About
 
-I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs** — from mobile UX and App Store delivery to JWT auth, RBAC, Redis, OpenAPI, Docker, and CI.
+I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel APIs** — from mobile UX and App Store delivery to JWT auth, RBAC, Redis, GraphQL, OpenAPI, Docker, and CI.
 
-**Flagship monorepo:** [`talentbridge`](https://github.com/sameh-bakleh/talentbridge) — Swift 6 TCA iOS + Laravel GraphQL DDD API (Horizon, Sentry, CI).
+**Flagship GraphQL pair:** [`talentbridge-api`](https://github.com/sameh-bakleh/talentbridge-api) + [`talentbridge-ios`](https://github.com/sameh-bakleh/talentbridge-ios) — Laravel GraphQL DDD backend & Swift 6 TCA client with a shared API contract.
 
 **Flagship REST pair:** [`ios-marketplace-product-app`](https://github.com/sameh-bakleh/ios-marketplace-product-app) + [`laravel-marketplace-platform`](https://github.com/sameh-bakleh/laravel-marketplace-platform) — screenshots, tests, and a mobile-ready API contract.
 
@@ -29,9 +30,9 @@ I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs**
 
 | Area | What I do |
 |------|-----------|
-| **Mobile** | Swift, SwiftUI & UIKit, MVVM, REST, auth, offline UX, XCTest, App Store delivery |
-| **Backend** | Laravel, PHP, Symfony, REST, JWT/RBAC, Redis, OpenAPI, admin dashboards |
-| **Full-stack** | iOS client + Laravel API pairs, GraphQL, TCA, integration, webhooks, queues, Docker, CI |
+| **Mobile** | Swift, SwiftUI & UIKit, MVVM, TCA, REST & GraphQL, auth, offline UX, XCTest |
+| **Backend** | Laravel, PHP, Symfony, GraphQL, JWT/RBAC, Redis, Horizon, OpenAPI |
+| **Full-stack** | iOS client + Laravel API pairs, integration, webhooks, queues, Docker, CI |
 
 </details>
 
@@ -40,18 +41,21 @@ I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs**
 ### Featured repositories
 
 <details open>
-<summary><b>Full-stack monorepo (flagship)</b></summary>
+<summary><b>Full-stack pair (GraphQL) — flagship</b></summary>
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/sameh-bakleh/talentbridge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameh-bakleh&repo=talentbridge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=c9d1d9" alt="talentbridge" />
+<a href="https://github.com/sameh-bakleh/talentbridge-api">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameh-bakleh&repo=talentbridge-api&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="talentbridge-api" />
+</a>
+<a href="https://github.com/sameh-bakleh/talentbridge-ios">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameh-bakleh&repo=talentbridge-ios&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=34d399&icon_color=a78bfa&text_color=c9d1d9" alt="talentbridge-ios" />
 </a>
 
 </div>
 
-<p align="center"><b>Swift 6 TCA iOS</b> + <b>Laravel 12 GraphQL DDD API</b> — recruitment marketplace demo with Horizon, Sentry, and CI.</p>
+<p align="center"><b>Laravel GraphQL API</b> + <b>Swift 6 TCA iOS</b> — recruitment marketplace, Horizon queues, Sentry, CI.</p>
 
 </details>
 
@@ -118,9 +122,10 @@ I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs**
 
 | Repo | Role | Highlights |
 |------|------|-----------|
-| [talentbridge](https://github.com/sameh-bakleh/talentbridge) | **Flagship monorepo** | Swift 6 TCA iOS + Laravel GraphQL DDD API |
+| [talentbridge-api](https://github.com/sameh-bakleh/talentbridge-api) | **Flagship API** | Laravel GraphQL, DDD, RBAC, Horizon, Redis, Docker, CI |
+| [talentbridge-ios](https://github.com/sameh-bakleh/talentbridge-ios) | **Flagship iOS** | Swift 6, TCA, GraphQL client, Keychain, XCTest |
 | [laravel-marketplace-platform](https://github.com/sameh-bakleh/laravel-marketplace-platform) | Flagship API | JWT, cart, orders, Redis, OpenAPI, iOS contract |
-| [ios-marketplace-product-app](https://github.com/sameh-bakleh/ios-marketplace-product-app) | **Flagship iOS** | SwiftUI, MVVM, auth, favorites, screenshots, XCTest |
+| [ios-marketplace-product-app](https://github.com/sameh-bakleh/ios-marketplace-product-app) | Flagship iOS | SwiftUI, MVVM, auth, favorites, screenshots, XCTest |
 | [ios-realtime-offline-chat](https://github.com/sameh-bakleh/ios-realtime-offline-chat) | iOS | Offline chat, message states, persistence |
 | [android-marketplace-client](https://github.com/sameh-bakleh/android-marketplace-client) | Android | Kotlin, Compose, JWT, catalog |
 | [laravel-recruitment-platform-api](https://github.com/sameh-bakleh/laravel-recruitment-platform-api) | Backend | Jobs, applications, RBAC, OpenAPI |
@@ -153,6 +158,7 @@ I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-161b22?style=flat-square&logo=symfony&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
