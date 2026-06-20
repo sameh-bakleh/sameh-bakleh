@@ -37,7 +37,23 @@ I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs**
 ### Featured repositories
 
 <details open>
-<summary><b>Full-stack pair (start here)</b></summary>
+<summary><b>Full-stack monorepo (flagship)</b></summary>
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/sameh-bakleh/talentbridge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameh-bakleh&repo=talentbridge&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=34d399&text_color=c9d1d9" alt="talentbridge" />
+</a>
+
+</div>
+
+<p align="center"><b>Swift 6 TCA iOS</b> + <b>Laravel 12 GraphQL DDD API</b> — recruitment marketplace demo with Horizon, Sentry, and CI.</p>
+
+</details>
+
+<details open>
+<summary><b>Full-stack pair (REST)</b></summary>
 <br/>
 
 <div align="center">
@@ -99,7 +115,8 @@ I ship **native iOS apps** (Swift, SwiftUI, UIKit) and **PHP/Laravel REST APIs**
 
 | Repo | Role | Highlights |
 |------|------|-----------|
-| [laravel-marketplace-platform](https://github.com/sameh-bakleh/laravel-marketplace-platform) | **Flagship API** | JWT, cart, orders, Redis, OpenAPI, iOS contract |
+| [talentbridge](https://github.com/sameh-bakleh/talentbridge) | **Flagship monorepo** | Swift 6 TCA iOS + Laravel GraphQL DDD API |
+| [laravel-marketplace-platform](https://github.com/sameh-bakleh/laravel-marketplace-platform) | Flagship API | JWT, cart, orders, Redis, OpenAPI, iOS contract |
 | [ios-marketplace-product-app](https://github.com/sameh-bakleh/ios-marketplace-product-app) | **Flagship iOS** | SwiftUI, MVVM, auth, favorites, screenshots, XCTest |
 | [ios-realtime-offline-chat](https://github.com/sameh-bakleh/ios-realtime-offline-chat) | iOS | Offline chat, message states, persistence |
 | [android-marketplace-client](https://github.com/sameh-bakleh/android-marketplace-client) | Android | Kotlin, Compose, JWT, catalog |
